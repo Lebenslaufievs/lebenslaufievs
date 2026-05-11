@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Lebenslaufievs/lebenslaufievs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ingrid Saa
 
-Here are some ideas to get you started:
+Systems Engineering Student | IT Support | Linux & Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Buenos Aires — Open to remote opportunities.
+
+## Tech
+- Linux
+- Docker
+- PHP
+- Python
+- SQL
+- Networking
+- Git/GitHub
+
+## Currently
+- Improving backend & infrastructure skills
+- Building technical portfolio
+- Looking for remote junior opportunities
+
+## Links
+Portfolio: ...
+LinkedIn: ...
