@@ -19,7 +19,3 @@ Para visualizar los proyectos de una forma m√°s clara, organizada y visual, pod√
 - Improving backend & infrastructure skills
 - Building technical portfolio
 - Looking for remote junior opportunities
-
-## Links
-Portfolio: ...
-LinkedIn: ...
